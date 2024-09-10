@@ -1,10 +1,9 @@
 ---
-title: 'Blog #1'
-author: Package Build
-date: '2024-09-09'
-slug: blog-1
-categories: []
-tags: []
+title: "Blog #1"
+author: "Dinesh Vasireddy"
+date: 2024-09-09T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
 ---
 
 A look at the competitiveness of presidential election and predicting 2024's election outcome.

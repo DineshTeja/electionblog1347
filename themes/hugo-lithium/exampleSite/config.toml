@@ -1,4 +1,4 @@
-baseurl = "https://dineshteja.github.io/electionblog1347/"
+baseurl = "/electionblog1347"
 languageCode = "en-US"
 title = "A Hugo website"
 theme = "hugo-lithium"

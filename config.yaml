@@ -1,6 +1,6 @@
 baseurl: https://dineshteja.github.io/electionblog1347/
 languageCode: en-US
-title: A Hugo website
+title: Dinesh's Election Blog
 theme: hugo-lithium
 ignoreFiles:
   - \.Rmd$
